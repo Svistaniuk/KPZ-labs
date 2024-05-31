@@ -1,4 +1,4 @@
-# **Laboratory Work 1: Principles of Programming in C#**
+# **Lab 1: Principles of Programming in C#**
 
 # **Description**:
 This project is a zoo management system developed using C#. It includes classes representing animals, enclosures, food, employees, and zoo inventory.
