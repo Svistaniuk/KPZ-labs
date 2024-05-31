@@ -1,6 +1,7 @@
 # Description:
 This project is a zoo management system developed using C#. It includes classes representing animals, enclosures, food, employees, and zoo inventory.
-#Adherence to Programming Principles:
+
+# Adherence to Programming Principles:
 Single Responsibility Principle: Each class in the project adheres to the Single Responsibility Principle, focusing on a specific area of functionality:
 
 Animal: Contains information about animals.
